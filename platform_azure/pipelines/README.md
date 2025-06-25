@@ -1,0 +1,1 @@
+This directory is for pipeline code for the Azure platform

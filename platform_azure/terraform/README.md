@@ -1,0 +1,1 @@
+This directory is for terraform code for the Azure platform
