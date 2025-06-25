@@ -1,0 +1,1 @@
+This directory is for scripts for the AWS platform
